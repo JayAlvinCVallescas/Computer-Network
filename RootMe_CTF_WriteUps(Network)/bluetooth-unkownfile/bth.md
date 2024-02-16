@@ -6,7 +6,7 @@ First, I want to know what type of file is this after I downloaded it.
 
 ![Alt text](image-1.png)
 
-After that, below the submit field, I noticed wireshark icon so I tried to open the file in wireshark. 
+After that, below the submit field, I noticed wireshark icon so I tried to open the file in wireshark.
 
 ![image-2](image-2.png)
 
